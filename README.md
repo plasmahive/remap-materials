@@ -1,7 +1,8 @@
 Welcome and I hope that you enjoy using the Remap Materials Blender Addon! <br>
 This addon was written for Blender 4.3, but I have tested it working on Blender 3.0
 
-To start using the Remap Materials addon, first you must open up an Outliner with the Blend File display mode selected.
+To start using the Remap Materials addon, first you must open up an Outliner with the Blend File display mode selected. <br>
+
 <img src="https://github.com/user-attachments/assets/85d0d14f-8e23-4190-bba6-2ed43bacfef2" alt="drawing" width="500"/>    <img src="https://github.com/user-attachments/assets/c98e17c8-df90-4d0f-bd07-f09c01aa00bf" alt="drawing" width="300"/>
 
 <br>
